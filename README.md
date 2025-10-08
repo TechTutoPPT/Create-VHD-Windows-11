@@ -1,4 +1,4 @@
-[![](https://github.com/TechTutoPPT/Create-VHD-Windows-11/blob/main/IMG_8278.PNG)](https://youtu.be/9Z9n4G8x5as)
+[![](https://github.com/TechTutoPPT/Create-VHD-Windows-11/blob/main/IMG_8278.PNG)](https://youtu.be/PrvJ16fDV08)
 
 想法是將Windows 11安裝到VHD中, 然後於BCD中添加VHD啟動選項, 那麼這Windows 11系統就需要管理單一檔案便可, 
 可與原廠預裝的Windows 10系統共存. 這樣做法有什麼好處, 首先現今SSD的讀寫出度已快得驚人, 完全可無視以VHD作為系統安裝碟所帶來的效能折損.
